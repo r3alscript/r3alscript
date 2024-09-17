@@ -8,7 +8,7 @@ I am currently studying at the State University of Information and Communication
 
 * 🌍  I'm based in Kyiv
 * ✉️  You can contact me at [denisruzhynski3@gmail.com](mailto:denisruzhynski3@gmail.com)
-* 🧠  I'm learning SOAP & REST
+* 🧠  Currently learning ASP.NET Core
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
